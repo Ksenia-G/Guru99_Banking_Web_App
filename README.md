@@ -1,18 +1,8 @@
 ## ABOUT
 Gurur99 Bank Project is a demo banking website.
-- [SRS](https://docs.google.com/document/d/1rPW5DV82VJT6vtA1VDSrfxaCBuAduxW0zb1yfTh_VMk/edit)
-- [First version of the website](http://demo.guru99.com/V1/)
 
 ## OBJECTIVE
-1. Write unit test cases for the below listed modules (for Manager)
-- New Customer
-- Edit Customer
-- New Account
-- Edit Account
-- Delete Account
-- Delete Customer
-- Mini Statement
-- Customized Statement
+1. Write unit test cases for the below listed modules as per SRS.
 2. Execute the test cases and document bug reports.
 
 ## TEST DOCUMENTATION 
