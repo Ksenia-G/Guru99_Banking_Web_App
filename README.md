@@ -1,5 +1,5 @@
 ## ABOUT
-Gurur99 Bank Project is a demo banking website.
+Gurur99 Bank Project is a banking website.
 
 ## OBJECTIVE
 1. Write unit test cases for the below listed modules as per SRS.
